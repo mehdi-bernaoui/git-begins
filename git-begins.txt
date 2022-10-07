@@ -1,0 +1,8 @@
+- Cloner un repo
+git clone git@github.com:monDossier
+
+- Les 3 commandes de push
+git add --all #si je souhaite commit tout les fichiers d'un coup
+git add nomdefichier #si je souhaite commit des fichiers specifie
+git commit -m "nom du commit"
+git push
